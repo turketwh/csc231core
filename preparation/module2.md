@@ -17,4 +17,4 @@ The major points to focus on in the reading are:
 	* What *acceptance* of a word means in a non-deterministic finite state machine
 
 ## Assess
-After completing the work indicated above, answer the questions in the *Preparation Quiz For Module 2* in the course Canvas site by the deadline indicated in Canvas. Note that most, though not necessarily all, of the questions will be from the *Check your understanding* sections at the end of each chapter of the *Course Reader*.
+After completing the work indicated above, answer the questions in the *Module 2 Preparation Assessment* in the course Canvas site by the deadline indicated in Canvas. Note that most, though not necessarily all, of the questions will be from the *Check your understanding* sections at the end of each chapter of the *Course Reader*.
