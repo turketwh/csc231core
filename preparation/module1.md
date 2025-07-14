@@ -10,6 +10,7 @@ By Friday, August 29, 2025:
 * Chapter 3: Finite State Machines: Actvities Introduction
 
 By Wednesday, September 3, 2025:
+
 * Chapter 4: Non-Deterministic Finite State Machines
 * Chapter 5: Non-Deterministic Finite State Machines: Activities Introduction
 
