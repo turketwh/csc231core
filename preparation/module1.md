@@ -1,11 +1,19 @@
 # CSC 231: Preparation Guide For Module 1
 
 ## Read And Watch
-Read the following chapters of the *Course Reader* linked from Module 0 of the course Canvas site. 
+Read the following chapters of the *Course Reader* linked from *Course Administration* module of the course Canvas site. 
+
+By Friday, August 29, 2025:
+
 * Chapter 1: Syntactic Structures
 * Chapter 2: Finite State Machines
+* Chapter 3: Finite State Machines: Actvities Introduction
 
-That content is approximately 11 pages of reading. Note that there may be a few videos linked in the reading that should be watched.  These will be annotated in a special callouts in the reading, each labeled as *Video Resource*.
+By Wednesday, September 3, 2025:
+* Chapter 4: Non-Deterministic Finite State Machines
+* Chapter 5: Non-Deterministic Finite State Machines: Activities Introduction
 
-## Assess
-After completing the work indicated above, answer the questions in the *Module 1 Preperation Assessment* in the course Canvas site by the deadline indicated in Canvas. Note that most, though not necessarily all, of the questions will be from the *Check your understanding* sections at the end of each chapter of the *Course Reader*.
+There may be a few videos linked in the reading that should be watched.  These will be annotated in a special callouts in the reading, each labeled as *Video Resource*.
+
+## Questions And Clarification
+If you have questions you would like to ask about the material in the reading, submit them though the *Questions And Clarification* Google form linked from *Module 1* in the course Canvas site.
