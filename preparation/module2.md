@@ -1,20 +1,30 @@
 # CSC 231: Preparation Guide For Module 2
 
 ## Read And Watch
-Read the following chapters of the *Course Reader* linked from Module 0 of the course Canvas site. 
-* Chapter 3: Designing Finite State Machines
-* Chapter 4: Non-Deterministic Finite State Machines
-	* **Just Sections 4.1 through 4.3**; we will not cover 4.4
 
-This is about $10$ pages of reading.
+Read the following chapters of the *Course Reader* linked from *Course Administration* module of the course Canvas site. 
 
-The major points to focus on in the reading are:
-* Chapter 3
-	* The purpose of the three key "design" components of finite state machines: *linear ordering of transitions*, *looping*, and *branching*
-* Chapter 4
-	* What makes a finite state machine *non-deterministic*
-	* How *tracing* a word through a non-deterministic finite state machine can involve *multiple paths*
-	* What *acceptance* of a word means in a non-deterministic finite state machine
+**By Friday, September 5, 2025**:
 
-## Assess
-After completing the work indicated above, answer the questions in the *Module 2 Preparation Assessment* in the course Canvas site by the deadline indicated in Canvas. Note that most, though not necessarily all, of the questions will be from the *Check your understanding* sections at the end of each chapter of the *Course Reader*.
+* Chapter 6: Finite State Machines With Output
+* Chapter 7: Finite State Machines With Output: Activities Introduction
+
+The major points to focus on in this part of the reading are:
+
+* The notion of an *output* alphabet
+* The association of *output* symbols with *entering states* for *Moore* machines and *following transitions* for *Mealy* machines
+
+**By Wednesday, September 10, 2025**:
+
+* Chapter 8: Designing Finite State Machines
+* Chapter 9: Designing Finite State Machines: Activities Introduction
+
+The major points to focus on in this part of the reading are:
+
+* The purpose of the three key "design" components of finite state machines: *linear ordering of transitions*, *looping*, and *branching*
+
+There may be a few videos linked in the reading that should be watched.  These will be annotated in a special callouts in the reading, each labeled as *Video Resource*.
+
+## Questions And Clarification
+
+If you have questions you would like to ask about the material in the reading, submit them though the *Questions And Clarification* Google form linked from *Module 2* in the course Canvas site.
