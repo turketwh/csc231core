@@ -7,7 +7,7 @@ Read the following chapters of the *Course Reader* linked from *Course Administr
 
 * Chapter 1: Syntactic Structures
 * Chapter 2: Finite State Machines
-* Chapter 3: Finite State Machines: Actvities Introduction
+* Chapter 3: Finite State Machines: Activities Introduction
 
 The major points to focus on in this part of the reading are:
 
