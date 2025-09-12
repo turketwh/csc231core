@@ -17,7 +17,7 @@ The major points to focus on in this part of the reading are:
 	* At a very high level, the idea of the *closure* operation
 	* The fact that, like other mathematics operators we are familiar with, there is an *order of operations* for the regular expression operations
 
-**By Friday, September 26**:
+**By Friday, September 26, 2025**:
 
 * Chapter 15: Grammars
 * Chapter 16: Grammars: Activities Introduction
