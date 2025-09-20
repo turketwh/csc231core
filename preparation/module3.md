@@ -3,7 +3,7 @@
 ## Read And Watch
 Read the following chapters of the *Course Reader* linked from the *Course Administration* module of the course Canvas site. 
 
-**By Wednesday, September 17, 2025**:
+**By Friday, September 26, 2025**: _(if you didn't have the chance to read it before we introduced the ideas on Wednesday, September 17)_
 
 * Chapter 12: Regular Expressions
 * Chapter 13: Regular Expressions: Activities Introduction
@@ -17,7 +17,7 @@ The major points to focus on in this part of the reading are:
 	* At a very high level, the idea of the *closure* operation
 	* The fact that, like other mathematics operators we are familiar with, there is an *order of operations* for the regular expression operations
 
-**By Friday, September 26, 2025**:
+**By Wednesday, October 1, 2025**:
 
 * Chapter 15: Grammars
 * Chapter 16: Grammars: Activities Introduction
